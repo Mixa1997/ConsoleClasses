@@ -1,0 +1,7 @@
+E:\Работы VS\ConsoleClasses\obj\Debug\ConsoleClasses.csprojAssemblyReference.cache
+E:\Работы VS\ConsoleClasses\obj\Debug\ConsoleClasses.csproj.CoreCompileInputs.cache
+E:\Работы VS\ConsoleClasses\bin\Debug\ConsoleClasses.exe.config
+E:\Работы VS\ConsoleClasses\bin\Debug\ConsoleClasses.exe
+E:\Работы VS\ConsoleClasses\bin\Debug\ConsoleClasses.pdb
+E:\Работы VS\ConsoleClasses\obj\Debug\ConsoleClasses.exe
+E:\Работы VS\ConsoleClasses\obj\Debug\ConsoleClasses.pdb
